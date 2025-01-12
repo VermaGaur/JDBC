@@ -523,7 +523,7 @@
 
 
 
-//with commit and rollback
+// transaction handling with commit and rollback
 import java.sql.*;
 import java.util.Scanner;
 
